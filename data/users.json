@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "username": "fish",
+      "nickname": "harvey",
+      "password": "123456",
+      "isUser": true,
+      "friends": [
+        {
+          "username": "di"
+        }
+      ]
+    ,
+      "moments": [
+        {
+          "content": "今天遇到偶像了，她好像在看我",
+          "list": [
+          ]
+
+        }
+      ,
+        {
+          "content": "我偶像朝我要微信了！！",
+          "list": [
+          ]
+
+        }
+      ,
+        {
+          "content": "我要不要约她吃饭呢！",
+          "list": [
+          ]
+
+        }
+      ]
+
+    }
+  ,
+    {
+      "username": "di",
+      "nickname": "迪丽热巴",
+      "password": "di",
+      "isUser": false,
+      "friends": [
+        {
+          "username": "hua"
+        },
+        {
+          "username": "fish"
+        }
+      ]
+    ,
+      "moments": [
+        {
+          "content": "今天在路上遇到一个小帅哥，不知道叫什么",
+          "list": [
+          ]
+
+        }
+      ,
+        {
+          "content": "终于打听到那个小帅哥的名字了，好像叫咸鱼",
+          "list": [
+          ]
+
+        }
+      ,
+        {
+          "content": "今天加上咸鱼的微信了，好开心！！！",
+          "list": [
+          ]
+
+        }
+
+      ]
+
+    }
+  ,
+    {
+      "username": "hua",
+      "nickname": "花花",
+      "password": "hua",
+      "isUser": true,
+      "friends": [
+        {
+          "username": "di"
+        }
+      ]
+    ,
+      "moments": [
+        {
+          "content": "11月15日海口演唱会，我来了！",
+          "list": [
+          ]
+
+        }
+      ,
+        {
+          "content": "欢迎ET回家！",
+          "list": [
+          ]
+
+        },
+        {
+          "content": "向大家介绍我的女朋友Annie",
+          "list": [
+          ]
+
+        },
+        {
+          "content": "谢谢大家的祝福，我们很幸福",
+          "list": [
+          ]
+
+        }
+
+      ]
+
+    }
+  ,
+    {
+      "username": "huge",
+      "nickname": "胡歌",
+      "password": "huge",
+      "isUser": true,
+      "friends": [
+      ]
+    ,
+      "moments": [
+        {
+          "content": "今天认识了一个新朋友叫咸鱼，我好开心啊！",
+          "list": [
+          ]
+        }
+      ]
+
+    }
+
+  ]
+
+}
