@@ -18,11 +18,6 @@ import java.util.List;
 import java.util.Map;
 
 public class FileIO {
-    private static final String username = "huang107";
-    private static final String host = "bowen.students.cs.ubc.ca";
-    private static final String password = "Hh@12345";
-    private static final int port = 22;
-
     private String filePath;
 
     public FileIO(String filePath) {
